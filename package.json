@@ -1,7 +1,7 @@
 {
-  "name": "my-react-template",
+  "name": "find-the-square",
   "version": "1.0.0",
-  "description": "My React Template",
+  "description": "Find the Square",
   "main": "./src/index.js",
   "scripts": {
     "build": "webpack --config webpack.prod.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aavondet/my-react-template"
+    "url": "https://github.com/aavondet/find-the-square"
   },
   "author": "Arnaud Avondet",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aavondet/my-react-template/issues"
+    "url": "https://github.com/aavondet/find-the-square/issues"
   },
-  "homepage": "https://github.com/aavondet/my-react-template#readme",
+  "homepage": "https://github.com/aavondet/find-the-square#readme",
   "dependencies": {
     "express": "^4.17.1",
     "react": "^17.0.1",

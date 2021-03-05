@@ -1,6 +1,7 @@
-## React Template
+## Find the Square 
 
-React project template that has webpack dev server, babel, React Router (client-side routing), express server, etc set up.
+Try to find the square hidden. If you hover over it for a bit, it'll make a sound! Click on it and you win. Refresh to play again.
+https://find-the-square.herokuapp.com/
 
 ### Commands
 Command | Description
